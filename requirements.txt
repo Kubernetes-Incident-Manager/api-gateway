@@ -2,7 +2,11 @@ fastapi>=0.115.0
 uvicorn[standard]
 python-jose[cryptography]
 passlib[bcrypt]
-requests>=2.32.4
+requests>=2.33.0
 httpx
 PyYAML
-cryptography>=44.0.0
+cryptography>=48.0.1
+urllib3>=2.7.0
+azure-core>=1.38.0
+pyjwt>=2.13.0
+starlette>=0.45.1
