@@ -1,5 +1,4 @@
 name: Service CI
-
 on:
   push:
     branches: [develop, main]
