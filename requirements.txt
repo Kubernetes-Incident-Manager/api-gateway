@@ -1,7 +1,5 @@
 fastapi>=0.115.0
 uvicorn[standard]
-python-jose[cryptography]
-passlib[bcrypt]
 requests>=2.33.0
 httpx
 PyYAML
